@@ -12,7 +12,9 @@ in a message-queued system
 
  - cd into your kafka download (e.g.  tar -xzf kafka_2.11-0.10.0.0.tgz 
                                       cd kafka_2.11-0.10.0.0)
-`bin/zookeeper-server-start.sh config/zookeeper.properties`
-`bin/kafka-server-start.sh config/server.properties`
+
+- `bin/zookeeper-server-start.sh config/zookeeper.properties`
+
+- `bin/kafka-server-start.sh config/server.properties`
 
 
